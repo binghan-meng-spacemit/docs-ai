@@ -1,6 +1,6 @@
 sidebar_position: 1
 
-# 应用软件栈
+# 应用软件栈与开发工具
 
 ## 1.1. llama.cpp
 
